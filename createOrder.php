@@ -46,7 +46,7 @@ try {
         'street' => ' Street 123',
         'city' => 'Vienna',
         'region' => 'WI',
-        'postcode' => 'Austria',
+        'postcode' => '1170',
         'country_id' => 'AT',
         'telephone' => '+431234567890',
         'is_default_billing' => 1
@@ -58,7 +58,7 @@ try {
         'street' => ' Street 123',
         'city' => 'Vienna',
         'region' => 'WI',
-        'postcode' => 'Austria',
+        'postcode' => '1170',
         'country_id' => 'AT',
         'telephone' => '+431234567890',
         'is_default_shipping' => 1
